@@ -1,0 +1,17 @@
+#jugador{
+  position: relative;
+  top: 10em;
+  left: 40%;
+}
+
+#nomjugador{
+  position: relative;
+  top: 8.5em;
+  left: 46%;
+}
+
+#jugarboto{
+  position: relative;
+  top: 6.8em;
+  left: 59%;
+}
